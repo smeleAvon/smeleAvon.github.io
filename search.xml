@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>mySQL使用指南</title>
+    <url>/2020/06/21/mySQL%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="mySQL-问题"><a href="#mySQL-问题" class="headerlink" title="mySQL 问题"></a>mySQL 问题</h2><p>首先启动时</p>
+<p>sudo /usr/local/mysql/support-files/mysql.server stop 先关闭进程</p>
+<p>sudo mysqld_safe –skip-grant-tables 然后跳过一系列不知道什么的东西</p>
+<p>mysql -u root -p6886533 开始使用</p>
+]]></content>
+  </entry>
+  <entry>
     <title>我的第一篇博客</title>
     <url>/2020/03/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="为什么会有这个博客存在？"><a href="#为什么会有这个博客存在？" class="headerlink" title="为什么会有这个博客存在？"></a>为什么会有这个博客存在？</h2><p>虽然很多时候都不想接受自己程序员的身份，但是换个方式想，我也正在慢慢接受“原本的自己”：乐观的，爱笑的，懒散的，爱吃的……<br>我想：那好哇！就这么开开心心的过下去，也不错哇！</p>
