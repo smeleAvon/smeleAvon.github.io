@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'FZFengYKSJF_Xi';
+   font-display: swap;
+   src: url('FZFengYKSJF_Xi/font.TTF');
+}
+@font-face {
+   font-family: '方正粗黑宋简体';
+   font-display: swap;
+   src: url('方正粗黑宋简体/font.ttf');
+}
+@font-face {
+   font-family: 'FZFengYKSJ_Zhun';
+   font-display: swap;
+   src: url('FZFengYKSJ_Zhun/font.TTF');
+}
+@font-face {
+   font-family: 'simfang';
+   font-display: swap;
+   src: url('simfang/font.ttf');
+}
